@@ -1,4 +1,6 @@
 # Desafio DevSecOps — Gerenciador de Tarefas
+Com muito orgulho de conseguir finalizar esse grande desafio.
+https://shiminah67.github.io/projeto-devsecops-desafio/
 
 ## Sobre o Projeto
 Este repositório faz parte do desafio prático do módulo de DevSecOps da ADA Tech.
